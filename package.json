@@ -1,0 +1,30 @@
+{
+  "name": "koop-twc-site",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koop",
+    "twc",
+    "weather"
+  ],
+  "author": "Adam Pfister",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "koop": "^3.5.2",
+    "moment": "^2.19.1",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}

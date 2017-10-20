@@ -1,0 +1,9 @@
+config/local-development.json
+
+node_modules
+
+tmp
+
+logs
+
+npm-debug.log
